@@ -27,3 +27,5 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s1lenc1995&layout=compact)](https://github.com/s1lenc1995/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s1lenc1995&layout=compact)](https://github.com/s1lenc1995/github-readme-stats)
