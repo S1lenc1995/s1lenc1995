@@ -1,4 +1,11 @@
+![Header](https://github.com/S1lenc1995/s1lenc1995/blob/main/assets/linkedinheaders-desktop.jpg)
+
+
 ### Hi there 👋
+
+
+
+
 
 <!--
 **S1lenc1995/s1lenc1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
