@@ -18,6 +18,11 @@
 ![git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git)
 
 
+### My social networks
+
+[![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/bohdan-kletskyi-22230b261/)
+![telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)
+![codewars](https://img.shields.io/badge/-codewars-090909?style=for-the-badge&logo=codewars)
 
 
 
