@@ -1,12 +1,21 @@
 ![Header](https://github.com/S1lenc1995/s1lenc1995/blob/main/assets/linkedinheaders-desktop.jpg)
 
 
-### Hi there 👋 I'm Front-end developer
+# Hi there 👋 I'm Front-end developer
 
 
 ### Langues and Tools
-![React](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)
+![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3)
+![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=SASS)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
+![REDUX](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=redux)
+![react-router](https://img.shields.io/badge/-reactrouter-090909?style=for-the-badge&logo=react-router)
+![typescript](https://img.shields.io/badge/-typescript-090909?style=for-the-badge&logo=typescript)
+![node.js](https://img.shields.io/badge/-node.js-090909?style=for-the-badge&logo=node.js)
+![gulp](https://img.shields.io/badge/-gulp-090909?style=for-the-badge&logo=gulp)
+![git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git)
 
 
 
