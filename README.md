@@ -4,7 +4,7 @@
 # Hi there 👋 I'm Front-end developer
 
 
-## Langues and Tools
+## Hard Skills
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3)
 ![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=SASS)
@@ -28,4 +28,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s1lenc1995&layout=compact)](https://github.com/s1lenc1995/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s1lenc1995&layout=compact)](https://github.com/s1lenc1995/github-readme-stats)
+
+
